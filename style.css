@@ -9,7 +9,7 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    line-height:200%
+    line-height:200%;
 }
 footer {
     padding-top: 3px;
@@ -26,3 +26,6 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+table, th, td {
+    border: 1px solid black;
+ }
